@@ -1,6 +1,7 @@
 
 
 <h1>Livro de Receitas</h1>
-<p>Bem vindo ao livro de receitas</p>
+<h3>Bem vindo ao livro de receitas</h3>
+<p>Livro de receitas de aprendizado de git/github</p>
 
 
